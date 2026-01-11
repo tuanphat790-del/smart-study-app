@@ -1,0 +1,7 @@
+Add requirements.txt listing project dependencies.
+
+Includes:
+- streamlit
+- openai
+
+This file documents the runtime dependencies needed to run the app locally and in CI.
